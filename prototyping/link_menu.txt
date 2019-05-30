@@ -1,0 +1,206 @@
+ABOUT
+
+    CV - (file)
+    NYU Shanghai Program on Creativity + Innovation website: http://creativityandinnovation.shanghai.nyu.edu/
+    QR Code for PCI - (file)
+    https://justwriteforitsownsake.wordpress.com/
+
+ARTICLES
+
+    ESSAYS
+        "Strategy Needs Creativity": https://hbr.org/2019/03/strategy-needs-creativity
+        "A Test for Artificial Empathy" - (file)
+        "As Well As Thinking Differently..." + Zhongwen: (2 files) & innoplanet http://mp.weixin.qq.com/s/-LLRWY9goK_Fg6gqUMfGXQ & ZGC Inno Way http://www.z-innoway.com/en/ 
+        "Talking at AMT Quarterly Partners Summit"
+        "Interview with AMT (Qiyuan)"
+        "A Father of Singularity..."  
+        "Wenn die Lichtgeschwindigkeit nicht mehr ausreicht: Quantennetzwerke könnten internationalen Teams helfen”
+        "Starting up..."
+        "Different Pictures of the University"
+        "Higher Edu. as a Strategic Inflection Point"
+        "Summer of Hack B-School"
+        "Invisible Hand..."
+        "Comment on 'Towards a Behavioral Theory of Strategy'"
+        "Origins of Epistemic Game Theory"
+        "Interview: Game Theory, 5 Questions"
+        "Porter's Added Value..."
+        "Review of Judo Strategy"
+        "The Added Value Theory of Business": http://www.strategy-business.com/article/12669?gko=5c72a
+        "Complementors in the Digital Economy": None
+        "Strategic and Structural Uncertainty in Games": http://www.amazon.com/Wise-Choices-Decisions-Games-Negotiations/dp/0875846777
+        "Review of only the Paranoid Survive": http://hbr.org/1996/11/inside-intel/ar/1
+        "Laurel without Hardy?...": None
+        "The Right Game...": http://hbr.org/1995/07/the-right-game-use-game-theory-to-shape-strategy/ar/1
+        "Review of Thinking Strategically": http://onlinelibrary.wiley.com/doi/10.1111/j.1430-9134.1993.00325.x/abstract
+        "Common Knowledge and Game Theory": http://www.amazon.com/Essays-Foundations-Game-Theory-Binmore/dp/0631168664
+        "Review of Economic Organizations as Games": http://www.jstor.org/discover/10.2307/2554475?uid=3739832&uid=2134&uid=2&uid=70&uid=4&uid=3739256&sid=21103164478227
+
+    PAPERS
+        "Renyi Entropy..."
+        "Agreement and Disagreement...": None
+        "Cooperative Games on Infinite Trees"
+        "Choice-Theoretic Foundations of the Divisive Normalization Model"
+        " ' ' Appendix"
+        "Quantum-Assisted Observatories in Space..."
+        "Axioms for the Boltzmann Distribution"
+        "A Canonical Hidden-Variable Space": https://doi.org/10.1016/j.apal.2018.08.003
+        "Where Do Great Strategies Really Come From?": https://pubsonline.informs.org/doi/full/10.1287/stsc.2017.0039
+        "How Many Levels Do Players Reason?...": forg file
+        "Epistemic Conditions for NE"
+        "Team Decision Problems..."
+        "Fiber Products..."
+        "Thinking about Thinking..."
+        "How Many Levels..." (2015)
+        "Are Admissibility..."
+        "No-Signalling is Equivalent...": http://eptcs.web.cse.unsw.edu.au/paper.cgi?QPLX.1
+        "An Operational Interpretation of Negative Probabilities and No-Signalling Models": http://arxiv.org/abs/1401.2561 
+        "Use of a Canonical Hidden-Variable Space in Quantum Mechanics"
+        "Fixed Points in Epistemic Game Theory"
+        "The Sheaf-Theoretic Structure...": http://iopscience.iop.org/1367-2630/13/11/113036/
+        "The Relationship between Rationality...": http://adambrandenburger.com/wp/wp-content/uploads/2017/10/rrmt-03-16-11.pdf
+        "The Relationship between Quantum and Classical...": http://www.sciencedirect.com/science/article/pii/S0899825609002048
+        "Self-Admissible Sets": http://www.sciencedirect.com/science/article/pii/S0022053109001458
+        "A Classification of Hidden-Variable Properties": http://iopscience.iop.org/1751-8121/41/42/425302/
+        "Intrinsic Correlation in Games": http://www.sciencedirect.com/science/article/pii/S0022053107001470
+        "icig Appendix"
+        "Admissibility in Games"
+        "aig Online Supplement": http://www.econometricsociety.org/suppmatlist.asp
+        "A Note on Kuhn's Theorem"
+        "Biform Games": https://pubsonline.informs.org/doi/abs/10.1287/mnsc.1060.0591
+        "Biform Games: Electronic Companion": http://pubsonline.informs.org/doi/suppl/10.1287/mnsc.1060.0591
+        "Biform Games: Additional Online Material" 
+        "An Impossibility Theorem on Beliefs in Games"
+        "Notes on the Relationship between Strong Belief and Assumption"
+        "On the Existence of a 'Complete' Possibility Structure" 
+        "A Purification Theorem for Perfect-Information Games"
+        "Epistemic Conditions for Iterated Admissibility"
+        "Entry and Deterrence in British Satellite Broadcasting"
+        "When Managers Cover Their Posteriors...": http://www.jstor.org/discover/10.2307/2555842?uid=3739832&uid=2&uid=4&uid=3739256&sid=21103164089577
+        "Value-Based Business Strategy": http://onlinelibrary.wiley.com/doi/10.1111/j.1430-9134.1996.00005.x/abstract
+        "Epistemic Conditions for Nash Equilibrium": http://www.jstor.org/discover/10.2307/2171725?uid=3739832&uid=2129&uid=2&uid=70&uid=4&uid=3739256&sid=21103164089577 
+        "Hierarchies of Beliefs and Common Knowledge": http://www.sciencedirect.com/science/article/pii/S0022053183710124
+        "Correlated Equilibrium...": http://www.sciencedirect.com/science/article/pii/089982569290014J
+        "Lexographic Probabilities..."
+        "Lexographic...Refinements": http://www.jstor.org/discover/10.2307/2938241?uid=3739832&uid=2129&uid=2&uid=70&uid=4&uid=3739256&sid=21103164089577
+        "Lexographic...Uncertainty": http://www.jstor.org/discover/10.2307/2938240?uid=3739832&uid=2129&uid=2&uid=70&uid=4&uid=3739256&sid=21103164089577
+        "A Simple Characterization of Stochastically Monotone Functions": http://www.jstor.org/discover/10.2307/2938309?uid=3739832&uid=2129&uid=2&uid=70&uid=4&uid=3739256&sid=21103164089577
+        "Common Knowledge of an Aggregate of Expectations": http://www.jstor.org/discover/10.2307/2938308?uid=3739832&uid=2129&uid=2&uid=70&uid=4&uid=3739256&sid=211031640895
+        "Rationality and Correlated Equilibria": http://www.jstor.org/discover/10.2307/1913562?uid=3739832&uid=2129&uid=2&uid=70&uid=4&uid=3739256&sid=21103164089577
+        "Common Knowledge with Probability": http://www.sciencedirect.com/science/article/pii/0304406887900103
+
+    SURVEYS    
+        "Game Theory: A Language of Interaction" 
+        "Epistemic Game Theory: An Overview": https://link.springer.com/referenceworkentry/10.1057/978-1-349-95121-5_2837-1
+        "Epistemic Game Theory: Complete Information": https://link.springer.com/referenceworkentry/10.1057/978-1-349-95121-5_2642-1
+        "The Power of Paradox...": http://link.springer.com/article/10.1007%2Fs00182-006-0061-2
+        "Knowledge and Equilibrium in Games": http://www.aeaweb.org/articles.php?doi=10.1257/jep.6.4.83
+        "An Overview of Lexographic Choice under Uncertainty": http://link.springer.com/article/10.1007/BF02283523#page-1
+        "The Role of Common Knowledge Assumptions in Game Theory": http://www.amazon.com/Economics-Missing-Markets-Information-Games/dp/0198283210
+
+BOOKS
+    The Language of Game Theory: 
+        This volume contains eight papers written by Adam Brandenburger and his co-authors over a period of 25 years. These papers are part of a program to reconstruct game theory in order to make how players reason about a game a central feature of the theory. The program — now called epistemic game theory — extends the classical definition of a game model to include not only the game matrix or game tree, but also a description of how the players reason about one another (including their reasoning about other players’ reasoning). With this richer mathematical framework, it becomes possible to determine the implications of how players reason for how a game is played. Epistemic game theory includes traditional equilibrium-based theory as a special case, but allows for a wide range of non-equilibrium behavior.
+            Read more on World Scientific: http://www.worldscientific.com/worldscibooks/10.1142/8844
+            Buy on Amazon: http://www.amazon.com/The-Language-Game-Theory-Mathematics/dp/9814513431/ref=sr_1_5?ie=UTF8&qid=1387835321&sr=8-5&keywords=the+language+of+game+theory
+        What People Are Saying…
+
+        “Adam Brandenburger’s work on the knowledge requirements implicit in game theory has become classic. These are of profound importance in understanding the relevance of game theory and, indeed, economic theory in general to the real economy. It is very good to have them collected, with an introduction that brings out the underlying themes.” — Kenneth J Arrow Stanford University, USA
+
+        “Three hundred years ago, Francis Waldegrave found the first minimax solution of a matrix game. But in his correspondence with mathematicians Pierre Rémond de Montmort and Nicolaus Bernoulli, Waldegrave counseled that epistemic considerations involving knowledge, beliefs, uncertainty, and incomplete information also mattered. The principal practitioners of game theory, with the notable exceptions of John Harsanyi and Robert Aumann, have ignored this advice. In recent years, these two theorists have been joined by Adam Brandenburger, whose work on epistemic game theory has been collected in this splendid volume. Eight classic papers by Brandenburger with a number of co-authors present an authoritative view of the field while an insightful introduction provides a roadmap to research both present and future.” — Harold W Kuhn, Princeton University, USA
+
+        “This book features a collection of foundational papers by Adam Brandenburger in epistemic game theory. Though still evolving, this approach marks a tectonic shift in game theory by offering a new, epistemic dimension which might be compared to the introduction of synchronized sound to motion pictures in the early 20th century: it might not immediately provide a complete picture, but it has the potential of changing the field forever.” — Sergei N Artemov, The Graduate Center of the City University of New York, USA
+
+        “Over the past decade epistemic game theory has emerged as one of the principled alternatives to more traditional approaches to economic interactions and Adam Brandenburger has played a central role in that emergence. For anyone interested in epistemic game theory, or game theory in general, this book is a must have. But even more important is the opportunity this volume, and epistemic game theory in general, presents to empirical scientists. As Brandenburger notes in his Introduction, until now epistemic game theory has been a theoretical discipline. This volume should make it clear, however, that it could be — and likely soon will be — an empirical undertaking. Anyone interested in behavioral, psychological, or neurobiological studies of how we make decisions during strategic play will find in this volume a profoundly fascinating set of empirically testable hypotheses just waiting to be examined.” — Paul Glimcher, New York University, USA
+
+        “Adam Brandenburger has played a leading role in developing the program of epistemic game theory, the goal of which is to provide a deeper and clearer foundation for game theory as a whole. This volume collects a remarkable body of work by Brandenburger and his collaborators, in which penetrating conceptual analysis and the development of a rich mathematical theory go hand in hand. The work offers much of great interest to computer scientists, who will see many connections with their study of recursive and corecursive structures, of processes and their logics, and of multi-agent systems; and to mathematicians and logicians interested in making precise models of the reflexive structures inherent in systems containing rational agents who can reason about the system of which they form a part. I hope that this timely collection will help to stimulate cross-disciplinary work on these fundamental topics.” — Samson Abramsky, Oxford University, UK
+
+        “Games are playgrounds where players meet and interact, guided by streams of information and opinion. Adam Brandenburger’s work has been instrumental in creating a new rich epistemic framework doing justice to both games and their players. This timely book will help a broader audience learn and appreciate the resulting theory.” — Johan van Benthem University of Amsterdam, The Netherlands and Stanford University, USA
+
+        “Economics, so grounded in the notion of equilibrium, has required substantial foundational work on reasoning about reasoning — epistemics — in interacting situations (games). Yet, if plain reasoning is difficult enough, just imagine epistemics. Adam Brandenburger, as is evident from the elegant and clear chapters of this book, is a master of the trade. His highly regarded research, always subtle and deep, is of the kind that establishes milestones while at the same time opening up vistas to new, and unexpected, frontiers. This book is specialized, certainly, but it is a must.” —Andreu Mas-Colell, Universitat Pompeu Fabra, Spain
+
+SLIDES
+    SEMINARS
+        Agreement and Disagreement in a Quantum World: None
+        Using Proof-of-Work to Coordinate
+        Strategy Needs Creativity
+        Epistemic Game Theory (2018)
+        Agreement in the Bayesian Brain
+        Where Do Great Strategies Really Come From?
+        Axioms for Neural Normalization
+        Mentoring
+        Thinking About Thinking and Its Cognitive Limits
+        Epistemic Game Theory: Language and Observation
+        Entropy and Simulation of No-Signalling Models
+        Formal Methods
+        Duality in Business
+        Game Theory
+        Epistemic Game Theory
+        No-Signalling Is EquivalentTo Free Choice of Measurements
+        Quantum Decision Theory
+        Market Feature Not Market Failure
+        Where is the Boundary?
+        From Positive to Zero to Negative Probability
+        Correlation in Games: A Case Study in Epistemic Game Theory
+        A Unified Sheaf-Theoretic Account of Non-Locality and Contextuality
+        Foundations of Game Theory
+        Game Theory and Business Strategy
+        Origins of Epistemic Game Theory
+        Admissibility in Games
+    TEACHING
+        Course: Creativity Considered
+            Syllabus: file
+        Course: The Strategist
+            Syllabus: file
+        Course: An Introduction to Game Theory
+            A Brief History
+            Two-By-Two Games
+            Two-Player Zero-Sum Games
+            Levels of reasoning
+            Cooperative Game Theory
+            Marginal Contribution -- A Case Study
+            Game-Theoretic Analysis of Economic Efficiency
+            Game Trees
+        Course: The Strategist
+            Strategy … or Anti-Strategy
+            The Prisoner’s Dilemma … or Another Game
+            Competition … or Cooperation
+            The Bigger Picture … or the Smaller Picture
+            Trade-off … or Trade-on
+            My Mind … or Your Mind
+            The Normal Distribution … or Another Distribution
+            Weakness … or Strength
+            The Strategist 1
+            The Strategist 2
+            The Strategist 3
+            The Strategist 4
+            The Strategist 5
+            The Strategist 6
+            The Strategist 7
+            The Strategist 8 
+        Course: Game Theory for Business Strategy
+            What is the Philosophy of a Strategist?
+            Origins of Game Theory
+            Some Comments on Value
+            How is the Pie Divided?
+            Added Value, Positioning, and Segments
+            Added Value, Stars, and Talent
+            A Definition of Strategy
+            Thinking About Moves in the Game
+            Strength and Weakness in the Game of Business
+            Creating the Largest Pie
+            All the Players in the Game
+
+
+VIDEOS
+    The Philosophy of a Strategist
+        https://vimeo.com/64326608
+    A Definition of Value
+        https://vimeo.com/61143220
+    How The Pie is Divided
+        https://vimeo.com/61225993
+    Uncertainty in a Game
+        https://vimeo.com/64599418
+    Creating the Largest Pie
+        https://vimeo.com/61844795
+    All the Players in the Game
+        https://vimeo.com/62165898
