@@ -19,7 +19,14 @@
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
 
   <!-- Custom styles for this template -->
-  <link href="css/resume.min.css" rel="stylesheet">
+    <link href="css/resume.css" rel="stylesheet">
+
+    <!-- RGB Scripts -->
+    <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+    <script src='http://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js'></script>
+    <script src='http://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js'></script>
+    <script src='https://www.greensock.com/js/src/utils/SplitText.min.js'></script>
+    <script  src="js/index.js"></script>
 
 </head>
 
@@ -41,27 +48,21 @@
           <a class="nav-link js-scroll-trigger" href="#about">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#experience">Publications</a>
+          <a class="nav-link js-scroll-trigger" href="#articles">Articles</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#education">Teaching</a>
+          <a class="nav-link js-scroll-trigger" href="#teaching">Teaching</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#skills">Contact</a>
+          <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
         </li>
-        <!-- <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#interests">Videos</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#awards">Articles</a>
-        </li> -->
       </ul>
     </div>
   </nav>
 
   <div class="container-fluid p-0">
 
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
+    <section class="adam-section p-3 p-lg-5 d-flex align-items-center" id="about">
       <div class="w-100">
         <h1 class="mb-0">Adam
           <span class="text-primary">Brandenburger</span>
@@ -73,71 +74,14 @@
           <a href="mailto:name@email.com">adam.brandenburger_DELETE_THIS_@stern.nyu.edu</a>
         </div>
         <p class="lead mb-5">Brandenburger holds appointments at New York University as J.P. Valles Professor at the Stern School of Business, Distinguished Professor at the Tandon School of Engineering, Faculty Director of the NYU Shanghai Program on Creativity + Innovation, and Global Network Professor.  He was a professor at Harvard Business School from 1987 to 2002.  He received his B.A., M.Phil., and Ph.D. degrees from the University of Cambridge.  Adam researches in the areas of game theory, information theory, and business strategy.</p>
-        <!-- <div class="social-icons">
-          <a href="#">
-            <i class="fab fa-linkedin-in"></i>
-          </a>
-          <a href="#">
-            <i class="fab fa-github"></i>
-          </a>
-          <a href="#">
-            <i class="fab fa-twitter"></i>
-          </a>
-          <a href="#">
-            <i class="fab fa-facebook-f"></i>
-          </a>
-        </div> -->
       </div>
     </section>
 
     <hr class="m-0">
 
-    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
+    <section class="adam-section p-3 p-lg-5 d-flex justify-content-center" id="articles">
       <div class="w-100">
         <h2 class="mb-5">Recent Publications</h2>
-
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5"><div class="resume-content"><h3 class="mb-0"><a href="
-              https://hbr.org/2019/03/strategy-needs-creativity
-              ">
-              "Strategy Needs Creativity"
-            </a></h3><div class="subheading mb-3">
-              Harvard Business Review
-            </div><p></p></div><div class="resume-date text-md-right"><span class="text-primary">
-              April 2019
-            </span></div></div>
-
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
-          <div class="resume-content">
-            <h3 class="mb-0">
-              <a target="new" href="material/ab_articles_essays/tae-05-15-18.pdf">"A Test For Artificial Empathy"</a>
-              </h3>
-            <div class="subheading mb-3">with Cheryl Loh</div>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary">May 2018</span>
-            <p></p>
-          </div>
-        </div>
-
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5"><div class="resume-content"><h3 class="mb-0"><a href="
-          material/ab_articles_essays/tdsd-10-23-17.pdf
-          ">
-          “As Well As Thinking Differently, Seeing Differently”
-        </a></h3><div class="subheading mb-3">
-            <a href="material/ab_articles_essays/tdsd-chinese-11-20-17.pdf">(& Chinese Version)</a>)
-            innoplanet, Zhongguancun Inno Way
-        </div><p></p></div><div class="resume-date text-md-right"><span class="text-primary">
-          October 2017
-        </span></div></div>
-
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5"><div class="resume-content"><h3 class="mb-0"><a href="
-              material/ab_articles_essays/amt-talk-04-14-17.pdf
-              ">
-              Talk at AMT Quarterly Partners Summit
-            </a></h3><div class="subheading mb-3">
-            </div><p></p></div><div class="resume-date text-md-right"><span class="text-primary">
-              April 2017
-            </span></div></div>
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5"><div class="resume-content"><h3 class="mb-0"><a href="
           material/ab_articles_essays/amt-03-16-17.pdf
@@ -148,67 +92,11 @@
               March 2017
             </span></div></div>
 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5"><div class="resume-content"><h3 class="mb-0"><a href="
-          material/ab_articles_essays/ecnu-03-15-17.pdf
-              ">
-              "The Father of Singularity: A Case Study in Creativity and Innovation"
-            </a></h3><div class="subheading mb-3">
-            </div><p></p></div><div class="resume-date text-md-right"><span class="text-primary">
-              March 2017
-            </span></div></div>
-
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5"><div class="resume-content"><h3 class="mb-0"><a href="
-          material/ab_articles_essays/FAZ-04.07.2016-18-Wenn_die_Lichtgeschwindigk-1789891859-Seite-1-1.pdf
-              ">
-              "Wenn die Lichtgeschwindigkeit nicht mehr ausreicht: Quantennetzwerke könnten internationalen Teams helfen”
-            </a></h3><div class="subheading mb-3">
-                with Pierfrancesco La Mura, Frankfurter Allgemeine Zeitung
-            </div><p></p></div><div class="resume-date text-md-right"><span class="text-primary">
-              July 4 2016
-            </span></div></div>
-
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5"><div class="resume-content"><h3 class="mb-0"><a href="
-          material/ab_articles_essays/pci-ab-02-16-16.pdf
-              ">
-              Starting Up: Teaching Creativity and Innovation at NYU Shanghai
-            </a></h3><div class="subheading mb-3">
-            </div><p></p></div><div class="resume-date text-md-right"><span class="text-primary">
-              February 2016
-            </span></div></div>
-
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5"><div class="resume-content"><h3 class="mb-0"><a href="
-          material/ab_articles_essays/Higher-Education-at-a-Strategic-Inflection-Point-The-Stern-Opportunity1.pdf
-              ">
-              "Different Pictures of the University"
-            </a></h3><div class="subheading mb-3">
-              with Jessy Hsieh
-            </div><p></p></div><div class="resume-date text-md-right"><span class="text-primary">
-              December 2014
-            </span></div></div>
-
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5"><div class="resume-content"><h3 class="mb-0"><a href="
-              material/ab_articles_essays/amt-talk-04-14-17.pdf
-              ">
-              "Higher Education at a Strategic Inflection Point"
-            </a></h3><div class="subheading mb-3">
-              The Stern Opportunity
-            </div><p></p></div><div class="resume-date text-md-right"><span class="text-primary">
-              October 2013
-            </span></div></div>
-
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5"><div class="resume-content"><h3 class="mb-0"><a href="
-          material/ab_articles_essays/hack-b-school-03-29-13.pdf
-              ">
-              Summary of Hack B-School
-            </a></h3><div class="subheading mb-3">
-            </div><p></p></div><div class="resume-date text-md-right"><span class="text-primary">
-              March 2013
-            </span></div></div>
     </section>
 
     <hr class="m-0">
 
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
+    <section class="adam-section p-3 p-lg-5 d-flex align-items-center" id="teaching">
       <div class="w-100">
         <h2 class="mb-5">Teaching</h2>
 
@@ -224,76 +112,10 @@
           </div>
         </div>
 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
-          <div class="resume-content">
-            <h3 class="mb-0">Creativity Considered</h3>
-            <div class="subheading mb-3"></div>
-            <p></p>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary">2019</span>
-          </div>
-        </div>
-
       </div>
     </section>
 
     <hr class="m-0">
-
-    <!-- <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
-      <div class="w-100">
-        <h2 class="mb-5">Areas of interest</h2>
-
-        <div class="subheading mb-3">Programming Languages &amp; Tools</div>
-        <ul class="list-inline dev-icons">
-          <li class="list-inline-item">
-          </li>
-        </ul>
-
-        <div class="subheading mb-3">Workflow</div>
-        <ul class="fa-ul mb-0">
-          <li></li>
-        </ul>
-      </div>
-    </section>
-
-    <hr class="m-0">
-
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="interests">
-      <div class="w-100">
-        <h2 class="mb-5">Interests</h2>
-        <p class="mb-0"></p>
-      </div>
-    </section>
-
-    <hr class="m-0">
-
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="awards">
-      <div class="w-100">
-        <h2 class="mb-5">Awards &amp; Certifications</h2>
-        <ul class="fa-ul mb-0">
-          <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
-          <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
-          <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
-            1<sup>st</sup>
-          <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
-            1<sup>st</sup>
-          <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
-            2<sup>nd</sup>
-          <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
-            1<sup>st</sup>
-          <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
-            3<sup>rd</sup>
-        </ul>
-      </div>
-    </section> -->
 
   </div>
 
@@ -302,6 +124,34 @@
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
   <script src="js/resume.min.js"></script>
+
+  <!-- RGB Tester for Adam -->
+
+  <div class="box">
+    <div id="slider-red">
+      <div class="ui-slider-handle">
+        <div class="letter">R</div>
+      </div>
+      <div id="amount-red">0</div>
+    </div>
+    <div id="slider-green">
+      <div class="ui-slider-handle">
+        <div class="letter">G</div>
+      </div>
+      <div id="amount-green">0</div>
+    </div>
+    <div id="slider-blue">
+      <div class="ui-slider-handle">
+        <div class="letter">B</div>
+      </div>
+      <div id="amount-blue">0</div>
+    </div>
+  </div>
+  <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+  <script src='http://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js'></script>
+  <script src='http://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js'></script>
+  <script src='https://www.greensock.com/js/src/utils/SplitText.min.js'></script>
+  <script  src="js/rgb.js"></script>
 
 </body>
 
