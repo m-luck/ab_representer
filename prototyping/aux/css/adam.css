@@ -90,7 +90,7 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  /* outline-color: #d48a6e; */
 }
 
 @media (min-width: 992px) {
@@ -204,6 +204,7 @@ a:hover, a:focus, a:active {
   -ms-transform: translateX(-50%) translateY(-50%);
   -o-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
+  background-color: rgba(100,100,100,0.5)
 }
 @media(max-height: 500px) {
 .box {
