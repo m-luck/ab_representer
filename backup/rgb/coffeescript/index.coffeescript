@@ -1,0 +1,44 @@
+window.red = 0
+window.blue = 0
+window.green = 0
+$ -> 
+  $("#slider-red").slider({
+    orientation: "vertical"
+    range: "min",
+    min: 0,
+    max: 255,
+    value: 0,
+    slide: (event, ui) ->
+      window.red = ui.value
+      $( "#amount-red" ).html( ui.value )
+      $("#slider-red > .ui-slider-handle, #slider-red > .ui-slider-range").css "background", "rgb(#{window.red}, 0, 0)"
+      $("html,body").css "background", "rgb(#{window.red}, #{window.green}, #{window.blue})"
+      $("h1").css "color", "rgb(#{window.red}, #{window.green}, #{window.blue})"
+    })
+  $("#slider-blue").slider({
+    orientation: "vertical"
+    range: "min",
+    min: 0,
+    max: 255,
+    value: 0,
+    slide: (event, ui) ->
+      window.blue = ui.value
+      $( "#amount-blue" ).html( ui.value )
+      $("#slider-blue > .ui-slider-handle, #slider-blue > .ui-slider-range").css "background", "rgb(0, 0, #{window.blue})"
+      $("html,body").css "background", "rgb(#{window.red}, #{window.green}, #{window.blue})"
+      $("h1").css "color", "rgb(#{window.red}, #{window.green}, #{window.blue})"
+    })
+  $("#slider-green").slider({
+    orientation: "vertical"
+    range: "min",
+    min: 0,
+    max: 255,
+    value: 0,
+    slide: (event, ui) ->
+      window.green = ui.value
+      $( "#amount-green" ).html( ui.value )
+      $("#slider-green > .ui-slider-handle, #slider-green > .ui-slider-range").css "background", "rgb(0, #{window.green}, 0)"
+      $("html,body").css "background", "rgb(#{window.red}, #{window.green}, #{window.blue})"
+      $("h1").css "color", "rgb(#{window.red}, #{window.green}, #{window.blue})"
+    })
+  

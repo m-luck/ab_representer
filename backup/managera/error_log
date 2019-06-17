@@ -1,0 +1,6 @@
+[22-Mar-2018 01:45:03 America/Denver] PHP Notice:  Undefined index: hzui in /home1/adambra1/public_html/adambrandenburger/managera/install.php on line 755
+[22-Mar-2018 01:45:03 America/Denver] PHP Warning:  chmod(): No such file or directory in /home1/adambra1/public_html/adambrandenburger/managera/install.php on line 773
+[22-Mar-2018 01:45:03 America/Denver] PHP Warning:  unlink(/home1/adambra1/public_html/adambrandenburger/wp-includes/images/media/mb_s.png): No such file or directory in /home1/adambra1/public_html/adambrandenburger/managera/install.php on line 829
+[22-Mar-2018 02:15:38 America/Denver] PHP Notice:  Undefined index: HTTP_REFERER in /home1/adambra1/public_html/adambrandenburger/managera/install.php on line 1173
+[22-Mar-2018 02:15:38 America/Denver] PHP Notice:  Undefined variable: id in /home1/adambra1/public_html/adambrandenburger/managera/install.php on line 1200
+[22-Mar-2018 02:15:38 America/Denver] PHP Notice:  Undefined offset: -1 in /home1/adambra1/public_html/adambrandenburger/managera/install.php on line 1203
